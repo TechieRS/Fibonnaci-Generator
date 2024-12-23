@@ -11,7 +11,7 @@ The Fibonacci sequence is a series of numbers where each number is the sum of th
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/TechieRS/fibonacci-sequence-generator.git
-    cd fibonacci-sequence-generator
+    cd fibonacci_generator
     ```
 
 2. **Compile the program:**
